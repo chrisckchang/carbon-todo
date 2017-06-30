@@ -1,0 +1,22 @@
+{
+  "name": "carbon-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/TodoService.js",
+  "scripts": {
+    "start": "node lib/TodoService"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisckchang/carbon-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisckchang/carbon-todo/issues"
+  },
+  "homepage": "https://github.com/chrisckchang/carbon-todo#readme",
+  "dependencies": {
+    "carbon-io": "^0.6.2"
+  }
+}
